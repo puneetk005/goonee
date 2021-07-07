@@ -1,0 +1,13 @@
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+/*Pages SCSS File Import*/
+
+@import "fonts.scss";
+
+/*Pages SCSS File Import*/
+
+@import "comingsoon.scss";
+body {
+    color: $black;
+    font-family: 'Sofia Pro';
+}

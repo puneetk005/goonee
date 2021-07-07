@@ -1,0 +1,15 @@
+{
+    "name": "goonee",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "watch": "node-sass sass/style.scss css/style.css -w"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^5.15.3",
+        "bootstrap": "^5.0.2"
+    }
+}

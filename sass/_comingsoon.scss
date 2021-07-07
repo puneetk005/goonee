@@ -1,0 +1,40 @@
+.coming-soon {
+    .logo {
+        height: 60px;
+    }
+    h2 {
+        font-weight: 700;
+    }
+    p {
+        font-weight: 300;
+    }
+    .notify-me {
+        overflow: hidden;
+        border-radius: 0.6rem;
+        .form-control {
+            padding: 0.7rem;
+            font-weight: 300;
+        }
+        .btn {
+            border-radius: 0;
+            border-bottom-left-radius: 0.6rem;
+            width: 160px;
+            font-weight: 700;
+        }
+    }
+    .follow-us {
+        h6 {
+            font-weight: 300;
+        }
+        a {
+            color: $black;
+            margin: 0 0.3rem;
+        }
+    }
+    .r-side-bg {
+        background: url(../images/cheerful-redhead-european.jpg) no-repeat;
+        min-height: 100vh;
+        background-size: cover;
+        border-bottom-left-radius: 8rem;
+    }
+}
